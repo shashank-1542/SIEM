@@ -30,6 +30,22 @@
 ![image](https://github.com/user-attachments/assets/8eeb7a7c-aa34-4338-b7ed-02f0082a6bf9)<br />
 
 
+<h2>Lab2.3</h2> <br />
+<h3>Analyzing HTTP by creating Dashboard for different type of attacks detection</h3>
+<h4>1. Host name and IP corroboration</h4> <br />
+![image](https://github.com/user-attachments/assets/57c67bbf-e1f9-4947-9574-ecefbd3b8b3b) <br />
+<h4>2.Dashboard created on diff type of visulization</h4> <br />
+![image](https://github.com/user-attachments/assets/6bdfb072-46c6-404e-b560-50d20d171ddc) <br />
+<h4>3.Analyzing Naked IP connection (Just say part of defense in Depth) ...  we will filter out COMMON ASN and analyze left one</h4> <br />
+![image](https://github.com/user-attachments/assets/38bfca6f-1c3a-42a7-a2f2-a6d73cc44a39) <br />
+<h4>4.Checking GOOGLE ASN as can not be ignored</h4> <br />
+![image](https://github.com/user-attachments/assets/6ff921de-9d27-409f-b68d-2f23cf1f8527)<br />
+<h4>5.Finally We got all the Virtual Host we need to analyse and which Internal IP we need to analyze.</h4> <br />
+![image](https://github.com/user-attachments/assets/ef9a8c94-48ea-4e9c-b87c-1d982e6b28f7) <br />
+
+
+
+
 
 
 
