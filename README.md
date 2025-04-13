@@ -5,7 +5,7 @@
 
   Lab1: https://github.com/shashank-1542/SIEM/blob/main/lab1.md<br />
       
-  Lab2: <br />
+  Lab2: https://github.com/shashank-1542/SIEM/blob/main/lab2.md <br />
      
   Lab3: <br />
       
