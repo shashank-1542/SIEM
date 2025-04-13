@@ -1,6 +1,6 @@
 # SIEM
 
-<h2>Implementing SIEM and detecting with SIEM</h2>
+<h2>Implementing and detecting with SIEM</h2>
 <h3>labs:</h3>
 
   Lab1: https://github.com/shashank-1542/SIEM/blob/main/lab1.md<br />
